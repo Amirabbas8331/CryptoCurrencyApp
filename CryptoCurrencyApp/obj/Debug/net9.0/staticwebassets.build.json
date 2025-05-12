@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "gnVCjqpP+qXR1Agzz2eUuLdbd5/tnpAL6VoYn/uokNc=",
+  "Source": "CryptoCurrencyApp",
+  "BasePath": "_content/CryptoCurrencyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CryptoCurrencyApp\\wwwroot",
+      "Source": "CryptoCurrencyApp",
+      "ContentRoot": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\",
+      "BasePath": "_content/CryptoCurrencyApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\73k6n3je15-21foux8jxo.gz",
+      "SourceId": "CryptoCurrencyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CryptoCurrencyApp",
+      "RelativePath": "index#[.{fingerprint=21foux8jxo}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "15etu0alaz",
+      "Integrity": "1apdUPEqw3wxmR+NZ85CCn2/QlhGAC3A8upm2ujs6pI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\qesfja6mbj-rqjijbgfce.gz",
+      "SourceId": "CryptoCurrencyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CryptoCurrencyApp",
+      "RelativePath": "Style#[.{fingerprint=rqjijbgfce}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kfpe2hiin3",
+      "Integrity": "QD4l2R+UXRkVkB6EQLz6WiaKaej01+eSOt/sdOTyJS4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css"
+    },
+    {
+      "Identity": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\vwcea6qbdv-48whpvu870.gz",
+      "SourceId": "CryptoCurrencyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CryptoCurrencyApp",
+      "RelativePath": "app#[.{fingerprint=48whpvu870}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hbzkji16vh",
+      "Integrity": "zfp8esjEotIDF7Dsjrtu67UtAbq9mTElQwEIHrwdIJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\app.js",
+      "SourceId": "CryptoCurrencyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\",
+      "BasePath": "_content/CryptoCurrencyApp",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48whpvu870",
+      "Integrity": "ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html",
+      "SourceId": "CryptoCurrencyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\",
+      "BasePath": "_content/CryptoCurrencyApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "21foux8jxo",
+      "Integrity": "FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css",
+      "SourceId": "CryptoCurrencyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\",
+      "BasePath": "_content/CryptoCurrencyApp",
+      "RelativePath": "Style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rqjijbgfce",
+      "Integrity": "c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.48whpvu870.js",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\vwcea6qbdv-48whpvu870.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001184834123"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "843"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfp8esjEotIDF7Dsjrtu67UtAbq9mTElQwEIHrwdIJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48whpvu870"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw="
+        }
+      ]
+    },
+    {
+      "Route": "app.48whpvu870.js",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48whpvu870"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw="
+        }
+      ]
+    },
+    {
+      "Route": "app.48whpvu870.js.gz",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\vwcea6qbdv-48whpvu870.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfp8esjEotIDF7Dsjrtu67UtAbq9mTElQwEIHrwdIJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48whpvu870"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfp8esjEotIDF7Dsjrtu67UtAbq9mTElQwEIHrwdIJ4="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\vwcea6qbdv-48whpvu870.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001184834123"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "843"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfp8esjEotIDF7Dsjrtu67UtAbq9mTElQwEIHrwdIJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\vwcea6qbdv-48whpvu870.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfp8esjEotIDF7Dsjrtu67UtAbq9mTElQwEIHrwdIJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfp8esjEotIDF7Dsjrtu67UtAbq9mTElQwEIHrwdIJ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.21foux8jxo.html",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\73k6n3je15-21foux8jxo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001945525292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1apdUPEqw3wxmR+NZ85CCn2/QlhGAC3A8upm2ujs6pI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21foux8jxo"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs="
+        }
+      ]
+    },
+    {
+      "Route": "index.21foux8jxo.html",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21foux8jxo"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs="
+        }
+      ]
+    },
+    {
+      "Route": "index.21foux8jxo.html.gz",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\73k6n3je15-21foux8jxo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1apdUPEqw3wxmR+NZ85CCn2/QlhGAC3A8upm2ujs6pI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21foux8jxo"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1apdUPEqw3wxmR+NZ85CCn2/QlhGAC3A8upm2ujs6pI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\73k6n3je15-21foux8jxo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001945525292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1apdUPEqw3wxmR+NZ85CCn2/QlhGAC3A8upm2ujs6pI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0+T6QtwtQs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\73k6n3je15-21foux8jxo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1apdUPEqw3wxmR+NZ85CCn2/QlhGAC3A8upm2ujs6pI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1apdUPEqw3wxmR+NZ85CCn2/QlhGAC3A8upm2ujs6pI="
+        }
+      ]
+    },
+    {
+      "Route": "Style.css",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\qesfja6mbj-rqjijbgfce.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001095290252"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QD4l2R+UXRkVkB6EQLz6WiaKaej01+eSOt/sdOTyJS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0="
+        }
+      ]
+    },
+    {
+      "Route": "Style.css",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0="
+        }
+      ]
+    },
+    {
+      "Route": "Style.css.gz",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\qesfja6mbj-rqjijbgfce.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QD4l2R+UXRkVkB6EQLz6WiaKaej01+eSOt/sdOTyJS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QD4l2R+UXRkVkB6EQLz6WiaKaej01+eSOt/sdOTyJS4="
+        }
+      ]
+    },
+    {
+      "Route": "Style.rqjijbgfce.css",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\qesfja6mbj-rqjijbgfce.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001095290252"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QD4l2R+UXRkVkB6EQLz6WiaKaej01+eSOt/sdOTyJS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rqjijbgfce"
+        },
+        {
+          "Name": "label",
+          "Value": "Style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0="
+        }
+      ]
+    },
+    {
+      "Route": "Style.rqjijbgfce.css",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rqjijbgfce"
+        },
+        {
+          "Name": "label",
+          "Value": "Style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0="
+        }
+      ]
+    },
+    {
+      "Route": "Style.rqjijbgfce.css.gz",
+      "AssetFile": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\obj\\Debug\\net9.0\\compressed\\qesfja6mbj-rqjijbgfce.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QD4l2R+UXRkVkB6EQLz6WiaKaej01+eSOt/sdOTyJS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 21:11:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rqjijbgfce"
+        },
+        {
+          "Name": "label",
+          "Value": "Style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QD4l2R+UXRkVkB6EQLz6WiaKaej01+eSOt/sdOTyJS4="
+        }
+      ]
+    }
+  ]
+}

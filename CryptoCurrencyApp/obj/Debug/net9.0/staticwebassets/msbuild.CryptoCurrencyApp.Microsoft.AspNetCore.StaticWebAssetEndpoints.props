@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CryptoCurrencyApp/app.48whpvu870.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"48whpvu870"},{"Name":"integrity","Value":"sha256-ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw="},{"Name":"label","Value":"_content/CryptoCurrencyApp/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2340"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 20:57:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoCurrencyApp/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2340"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZDIE0WwBLG9kAi5pQntIZuE9tC2hkdptayih7WPtdmw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 20:57:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoCurrencyApp/index.21foux8jxo.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"21foux8jxo"},{"Name":"integrity","Value":"sha256-FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0\u002BT6QtwtQs="},{"Name":"label","Value":"_content/CryptoCurrencyApp/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"818"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0\u002BT6QtwtQs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 21:11:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoCurrencyApp/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0\u002BT6QtwtQs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"818"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FqQpASX/dW5HTY3Q3O3flAmEODg7H0HNQ0\u002BT6QtwtQs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 21:11:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoCurrencyApp/Style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2452"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 21:11:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoCurrencyApp/Style.rqjijbgfce.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rqjijbgfce"},{"Name":"integrity","Value":"sha256-c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0="},{"Name":"label","Value":"_content/CryptoCurrencyApp/Style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2452"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022c/ODOnUd62IhKfpb6nM/GqXOXTZsf/UHzxaUUP8ZKG0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 21:11:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\msigaming\Desktop\CryptoCurrencyApp\CryptoCurrencyApp\wwwroot\index.html
+C:\Users\msigaming\Desktop\CryptoCurrencyApp\CryptoCurrencyApp\wwwroot\Style.css
+C:\Users\msigaming\Desktop\CryptoCurrencyApp\CryptoCurrencyApp\wwwroot\app.js
+wwwroot\app.js
+wwwroot\index.html
+wwwroot\Style.css

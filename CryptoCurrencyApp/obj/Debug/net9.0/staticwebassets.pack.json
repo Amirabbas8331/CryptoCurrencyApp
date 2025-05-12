@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css",
+      "PackagePath": "staticwebassets\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CryptoCurrencyApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CryptoCurrencyApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CryptoCurrencyApp.props",
+      "PackagePath": "build\\CryptoCurrencyApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CryptoCurrencyApp.props",
+      "PackagePath": "buildMultiTargeting\\CryptoCurrencyApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CryptoCurrencyApp.props",
+      "PackagePath": "buildTransitive\\CryptoCurrencyApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

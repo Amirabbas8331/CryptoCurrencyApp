@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|c:\\users\\msigaming\\desktop\\cryptocurrencyapp\\cryptocurrencyapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|solutionrelative:cryptocurrencyapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|c:\\users\\msigaming\\desktop\\cryptocurrencyapp\\cryptocurrencyapp\\models\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|solutionrelative:cryptocurrencyapp\\models\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|c:\\users\\msigaming\\desktop\\cryptocurrencyapp\\cryptocurrencyapp\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|solutionrelative:cryptocurrencyapp\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|c:\\users\\msigaming\\desktop\\cryptocurrencyapp\\cryptocurrencyapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|solutionrelative:cryptocurrencyapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|c:\\users\\msigaming\\desktop\\cryptocurrencyapp\\cryptocurrencyapp\\controllers\\exchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|solutionrelative:cryptocurrencyapp\\controllers\\exchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|c:\\users\\msigaming\\desktop\\cryptocurrencyapp\\cryptocurrencyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B551A41A-F3BD-42B0-BC02-47B11943AA49}|CryptoCurrencyApp\\CryptoCurrencyApp.csproj|solutionrelative:cryptocurrencyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Dockerfile",
+              "RelativeDocumentMoniker": "CryptoCurrencyApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Dockerfile",
+              "RelativeToolTip": "CryptoCurrencyApp\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-12T22:04:06.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crypto.cs",
+              "DocumentMoniker": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Models\\Crypto.cs",
+              "RelativeDocumentMoniker": "CryptoCurrencyApp\\Models\\Crypto.cs",
+              "ToolTip": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Models\\Crypto.cs",
+              "RelativeToolTip": "CryptoCurrencyApp\\Models\\Crypto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:46:05.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css",
+              "RelativeDocumentMoniker": "CryptoCurrencyApp\\wwwroot\\Style.css",
+              "ToolTip": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\Style.css",
+              "RelativeToolTip": "CryptoCurrencyApp\\wwwroot\\Style.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-12T20:59:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CryptoCurrencyApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\wwwroot\\index.html",
+              "RelativeToolTip": "CryptoCurrencyApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T20:54:13.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeController.cs",
+              "DocumentMoniker": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Controllers\\ExchangeController.cs",
+              "RelativeDocumentMoniker": "CryptoCurrencyApp\\Controllers\\ExchangeController.cs",
+              "ToolTip": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Controllers\\ExchangeController.cs",
+              "RelativeToolTip": "CryptoCurrencyApp\\Controllers\\ExchangeController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:35:29.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoCurrencyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\msigaming\\Desktop\\CryptoCurrencyApp\\CryptoCurrencyApp\\Program.cs",
+              "RelativeToolTip": "CryptoCurrencyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:21:19.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
